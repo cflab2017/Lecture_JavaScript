@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>폼과 입력</title>
+  </head>
+  <body>
+    <form id="loginForm">
+      <label>이메일 <input type="email" name="email" required /></label>
+      <label>비밀번호 <input type="password" name="password" required minlength="4" /></label>
+      <label>이름 <input type="text" name="username" /></label>
+      <label><input type="checkbox" name="remember" /> 자동 로그인</label>
+      <button type="submit">제출</button>
+    </form>
+    <p id="echo"></p>
+
+    <script src="01_input_submit.js"></script>
+    <script src="02_validation.js"></script>
+    <script src="03_formdata.js"></script>
+    <script src="04_controlled.js"></script>
+  </body>
+</html>

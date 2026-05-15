@@ -1,0 +1,9 @@
+{
+  "name": "scripts-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "hello": "node -e \"console.log('Hello from npm script')\""
+  }
+}
