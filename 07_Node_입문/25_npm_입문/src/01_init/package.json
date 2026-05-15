@@ -1,0 +1,7 @@
+{
+  "name": "init-demo",
+  "version": "1.0.0",
+  "description": "npm init 최소 예제",
+  "type": "module",
+  "license": "MIT"
+}
