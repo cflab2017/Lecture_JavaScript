@@ -1,5 +1,9 @@
 # JavaScript 기초 + Node.js 입문
 
+> 🌐 **전체 25편 강의 보기** — [https://coding-now.com/blog/javascript](https://coding-now.com/blog/javascript)
+>
+> 한국어 무료 JavaScript 강의 25편 + Node.js 입문 · Coding Now
+
 > 순수 JavaScript 와 표준 DOM API 만으로 25편에 걸쳐 학습합니다. 별도 빌드 도구, 번들러, 프레임워크는 사용하지 않습니다.
 
 ## 강의 소개
